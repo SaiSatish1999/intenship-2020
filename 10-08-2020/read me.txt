@@ -1,0 +1,7 @@
+Built Tcp server and client 
+read data from .bin file and send data to .bin file in client side 
+using 
+Boost.asio
+which is cross platform support 
+reference :
+https://www.codeproject.com/Articles/1264257/Socket-Programming-in-Cplusplus-using-boost-asio-T
