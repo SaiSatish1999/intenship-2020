@@ -19,5 +19,6 @@ int arr[num];
 for(int i=0; i<num; i++){
  cin>>arr[i];
 }
+    cout<<find(arr,num)<<endl;
 
 }
