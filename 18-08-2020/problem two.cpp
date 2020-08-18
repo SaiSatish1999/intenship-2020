@@ -14,7 +14,7 @@ int find(int ar[],int size){
 int main(){
 int n;
 cin>> n;
-int num=2*(n+1);
+int num=2*n+1;
 int arr[num];
 for(int i=0; i<num; i++){
  cin>>arr[i];
